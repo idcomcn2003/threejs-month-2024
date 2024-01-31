@@ -1,6 +1,6 @@
 # threejs-month-2024
 ~~~
-这是一个three.js 2023年的每月一例
+这是一个three.js 2024年的每月一例
 ~~~
 
 
